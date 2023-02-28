@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: My Third Blog Post
 author: Astro Learner
 description: "I had some challenges, but my google-fu is on point!"
@@ -9,9 +10,7 @@ pubDate: 2022-07-15
 tags: ["astro", "learning in public", "setbacks", "community"]
 ---
 
-<a href="/">Home</a>
-<a href="/about/">About</a>
-<a href="/blog/">Blog</a>
+
 
 It won't be easy building a blog site, but I can do it.
 Astro feels fine so far
